@@ -1,0 +1,38 @@
+.Home{
+   
+    width: 54px;
+    height: 27px;
+    top:30px;
+    margin-left:450px;
+   
+}
+.About{
+    width: 81px;
+    height: 27px;
+    top:30px;
+    margin-left:100px;
+   
+}
+
+.Contact{
+    width: 54px;
+    height: 27px;
+    top:30px;
+    margin-left:100px;
+   
+}
+.bu{
+    margin-left: 579px;
+    margin-top:150px;
+}
+.text{
+    margin-left: 397px;
+    margin-top:50px;
+    width:600px;
+    height:120px;
+}
+.adres{
+    margin-left:397px;
+    margin-top:30px;
+    
+}
